@@ -44,7 +44,7 @@ This project is a **frontend clone of the UsabilityHub website**, created to pra
 ![Homepage](assets/homepage.png)
 
 ### Features Section
-![Features](assets/features.png)
+![Features](features.png)
 
 
 ### 📱 Responsive Design
